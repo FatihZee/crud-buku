@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "crudbuku_combinehas",
+    "password": "8956c35acfe6a393c6aac87f7508001ddfe98d1e",
+    "database": "crudbuku_combinehas",
+    "host": "ypn3h.h.filess.io",
+    "port": 3307,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "crudbuku_combinehas",
+    "password": "8956c35acfe6a393c6aac87f7508001ddfe98d1e",
+    "database": "crudbuku_combinehas",
+    "host": "ypn3h.h.filess.io",
+    "port": 3307,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "crudbuku_combinehas",
+    "password": "8956c35acfe6a393c6aac87f7508001ddfe98d1e",
+    "database": "crudbuku_combinehas",
+    "host": "ypn3h.h.filess.io",
+    "port": 3307,
+    "dialect": "mysql"
+  }
+}
